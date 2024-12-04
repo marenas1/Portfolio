@@ -1,4 +1,3 @@
-import React from "react";
 import WealthWiseDemo from "../assets/WealthWiseDemo.mp4";
 import TKDAppVideo from "../assets/TKDAppVideoWEffects Compressed.mp4";
 import WebsiteHome from "../assets/WebsiteHomePage.png";
