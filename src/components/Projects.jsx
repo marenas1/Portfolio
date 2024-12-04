@@ -5,7 +5,7 @@ const projects = [
     technologies: ["React", "Tailwind CSS", "PostgreSQL", "Plaid (Future)"],
     link: "https://github.com/marenas1/Finance-Tracker",
     live: "",
-    video: "portfolio/src/assets/WealthWiseDemo.mp4",
+    video: "src/assets/WealthWiseDemo.mp4",
     image: "",
   },
   {
@@ -24,7 +24,7 @@ const projects = [
     link: "https://github.com/marenas1/Taekwondo-Website",
     live: "https://sykimstkd.com/",
     video: "",
-    image: "portfolio/src/assets/WebsiteHomePage.png", 
+    image: "src/assets/WebsiteHomePage.png", 
   },
 ];
 
